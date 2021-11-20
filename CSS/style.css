@@ -41,6 +41,14 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-color: rgb(138, 132, 118);
-        height: 40vh;
+        height: 50vh;
         color: white;
+    }
+    
+    #service_section>h3 {
+        padding-top: 8%;
+    }
+    
+    #service_section>p {
+        padding-bottom: 8%;
     }
