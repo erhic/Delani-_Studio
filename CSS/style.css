@@ -55,4 +55,8 @@
     
     #contactus {
         background-image: url(../Asset/backgrounds/c_image.jpg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-color: rgb(138, 132, 118);
+        height: 78vh;
     }
