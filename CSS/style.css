@@ -1,5 +1,10 @@
     #welcome_delani {
         background-image: url(../Asset/backgrounds/h_img.jpg);
+        height: 115vh;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-color: rgb(138, 132, 118);
     }
     
     #welcome_head {
