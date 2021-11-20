@@ -49,6 +49,10 @@
         padding-top: 8%;
     }
     
-    #service_section>p {
+    #wesign_paragraph {
         padding-bottom: 8%;
+    }
+    
+    #contactus {
+        background-image: url(../Asset/backgrounds/c_image.jpg);
     }
