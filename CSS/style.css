@@ -1,12 +1,16 @@
     #welcome_delani {
         background-image: url(../Asset/backgrounds/h_img.jpg);
-        height: 115vh;
+        height: 116vh;
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
         background-color: rgb(138, 132, 118);
     }
     
-    #welcome_head {
+    #welcome_heading {
         color: white;
+    }
+    
+    #welcome_headings {
+        padding-top: 15%;
     }
