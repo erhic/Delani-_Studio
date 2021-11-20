@@ -34,3 +34,13 @@
     body {
         font-family: 'Roboto', sans-serif;
     }
+    
+    #service_section {
+        background-image: url(../Asset/backgrounds/s_image.jpg);
+        /* background-position: center; */
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-color: rgb(138, 132, 118);
+        height: 40vh;
+        color: white;
+    }
