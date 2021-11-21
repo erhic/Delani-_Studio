@@ -60,3 +60,16 @@
         background-color: rgb(138, 132, 118);
         height: 78vh;
     }
+    
+    #text_area,
+    #text_area_name,
+    #text_area_email {
+        border: 1px solid white;
+        visibility: visible;
+        color: rgb(12, 12, 12);
+    }
+    
+    form {
+        color: white;
+        opacity: 0.2;
+    }
