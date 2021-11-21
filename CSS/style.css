@@ -65,11 +65,11 @@
     #text_area_name,
     #text_area_email {
         border: 1px solid white;
-        visibility: visible;
-        color: rgb(12, 12, 12);
+        background-color: transparent !important;
+        color: white !important;
+        font-weight: bolder;
     }
     
-    form {
+    form>h3 {
         color: white;
-        opacity: 0.2;
     }
