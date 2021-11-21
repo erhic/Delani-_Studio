@@ -83,3 +83,7 @@
             color: white !important;
             opacity: 1!important;
         }
+        
+        #imge {
+            width: 90%;
+        }
