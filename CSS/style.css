@@ -87,3 +87,11 @@
         #imge {
             width: 90%;
         }
+        
+        h3:nth-child(3) {
+            padding-bottom: 5%;
+        }
+        
+        .whatwedo_para {
+            display: none;
+        }
