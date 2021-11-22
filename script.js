@@ -5,3 +5,4 @@ function validateImput() {
         alert("fill all the fields")
     }
 }
+document.getElementById('btn_submit').addEventListener('click', validateImput)
