@@ -9,6 +9,8 @@
 ### BDD
 -----
 * The time taken to give a response to the use is fasts , the layout provide easy access.
+ ### Design
+<img src="Licence/ Delani Studio.jpg">
 
 
 ### Technologies Used
@@ -39,7 +41,7 @@ Email: ericgichovi@moringa.student.com
 [ LICENCE](LICENSE)
 MIT License
 
-Copyright (c) 2019 Eric N
+Copyright (c) 2021 Eric N
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
