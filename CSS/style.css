@@ -117,16 +117,15 @@
         
         #overtitle {
             position: absolute;
-            color: bisque;
+            color: rgb(3, 3, 3);
             top: 0;
             bottom: 0;
             display: flex;
             flex-direction: column;
             align-content: center;
             justify-content: center;
-            font-weight: 900;
-            font-size: medium;
-            font-family: 'Courier New', Courier, monospace;
+            font-weight: bolder;
+            font-size: larger;
             opacity: 0;
             background-color: azure;
             width: 100%;
@@ -135,7 +134,7 @@
         }
         
         #container:hover #overtitle {
-            opacity: 1;
+            opacity: 0.5;
         }
         
         * {
