@@ -28,3 +28,31 @@ $(document).ready(function() {
     })
 
 })
+$(document).ready(function() {
+    $("#serviceimg2").click(function() {
+        $(".whatwedo_para").toggle("slow");
+        $("#serviceimg2").hide()
+    })
+})
+
+$(document).ready(function() {
+    $(".whatwedo_para").click(function() {
+        $("#serviceimg2").show()
+        $(".whatwedo_para").hide();
+    })
+
+})
+$(document).ready(function() {
+    $("#serviceimg3").click(function() {
+        $(".whatwedo_para").toggle("slow");
+        $("#serviceimg3").hide()
+    })
+})
+
+$(document).ready(function() {
+    $(".whatwedo_para").click(function() {
+        $("#serviceimg3").show()
+        $(".whatwedo_para").hide();
+    })
+
+})
