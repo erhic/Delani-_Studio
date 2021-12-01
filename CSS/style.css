@@ -11,6 +11,10 @@
     background-color: rgb(138, 132, 118);
 }
 
+#serviceicon {
+    height: 199px !important;
+}
+
 #welcome_headings {
     padding-top: 15%;
 }
@@ -111,7 +115,7 @@ h3:nth-child(3) {
 }
 
 .overlay {
-    border: 1px solid rgb(0, 255, 213);
+    border: 2px solid rgb(12, 12, 12);
     background-color: rgba(204, 226, 222, 0.8);
 }
 
@@ -127,7 +131,7 @@ h3:nth-child(3) {
     font-weight: bolder;
     font-size: larger;
     opacity: 0;
-    background-color: azure;
+    background-color: rgb(3, 3, 3);
     width: 100%;
     height: 100;
     padding: 10px;
@@ -139,4 +143,19 @@ h3:nth-child(3) {
 
 * {
     box-sizing: border-box;
+}
+
+#overtitle {
+    align-items: center;
+    text-align: center;
+    border: 2px solid black;
+    position: absolute;
+    padding: 2px;
+    font-weight: 1500px;
+    height: 20px;
+    width: 50px;
+}
+
+#imge {
+    position: relative;
 }
