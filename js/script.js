@@ -10,9 +10,6 @@ function validateImput() {
         alert(" Thanks for you message  " + name);
     }
 }
-// const body = document.body
-// const titl = document.querySelector(".overlay")
-// titl.style.backGroundColor = "red"
 
 
 $(document).ready(function() {

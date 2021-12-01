@@ -152,8 +152,10 @@ h3:nth-child(3) {
     position: absolute;
     padding: 2px;
     font-weight: 1500px;
-    height: 20px;
-    width: 50px;
+    height: 100%;
+    width: 90%;
+    color: white;
+    font-size: 28px;
 }
 
 #imge {
